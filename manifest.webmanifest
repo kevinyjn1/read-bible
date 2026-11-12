@@ -1,0 +1,15 @@
+{
+  "name": "성경을 읽자",
+  "short_name": "성경을 읽자",
+  "description": "하루 5분 성경 읽기 - Read the Bible 5 minutes a day",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#faf6ef",
+  "theme_color": "#faf6ef",
+  "icons": [
+    { "src": "icon-180.png", "sizes": "180x180", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml" }
+  ]
+}

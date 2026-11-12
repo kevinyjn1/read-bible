@@ -1,0 +1,16 @@
+{
+  "name": "read-bible",
+  "version": "1.0.0",
+  "description": "성경을 읽자 - a 5-minute-a-day Bible reading site for beginners",
+  "private": true,
+  "type": "module",
+  "license": "MIT",
+  "scripts": {
+    "start": "python3 -m http.server 4173",
+    "test": "node --test",
+    "build:data": "node scripts/build-data.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
